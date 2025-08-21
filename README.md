@@ -1,4 +1,4 @@
-# Power BI Template - BPI
+# Power BI Template
 This Power BI template file (`*.pbix`) is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 
 ## Terms of Use:
